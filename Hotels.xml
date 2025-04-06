@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotels>
+  <Hotel id="1">
+    <Name>Hilton Phoenix Resort</Name>
+    <Address>7677 N 16th St, Phoenix, AZ 85020</Address>
+    <Contact>
+      <Phone>+1-602-997-2626</Phone>
+      <Phone>+1-800-445-8667</Phone>
+      <Email>info@hiltonphoenix.com</Email>
+    </Contact>
+    <URL>https://www.hilton.com/en/hotels/phxrmhh-hilton-phoenix/</URL>
+    <Rating>4.3</Rating>
+  </Hotel>
+
+  <Hotel id="2">
+    <Name>Marriott Tempe at The Buttes</Name>
+    <Address>2000 W Westcourt Way, Tempe, AZ 85282</Address>
+    <Contact>
+      <Phone>+1-602-225-9000</Phone>
+      <Email>contact@marriottbuttes.com</Email>
+    </Contact>
+    <URL>https://www.marriott.com/en-us/hotels/phxtm-phoenix-marriott-tempe-at-the-buttes</URL>
+    <Rating>4.4</Rating>
+  </Hotel>
+
+  <Hotel id="3">
+    <Name>Hyatt Regency Scottsdale</Name>
+    <Address>7500 E Doubletree Ranch Rd, Scottsdale, AZ 85258</Address>
+    <Contact>
+      <Phone>+1-480-444-1234</Phone>
+    </Contact>
+    <URL>https://www.hyatt.com/en-US/hotel/arizona/hyatt-regency-scottsdale</URL>
+    <Rating>4.6</Rating>
+  </Hotel>
+
+  <Hotel id="4">
+    <Name>Fairmont Scottsdale Princess</Name>
+    <Address>7575 E Princess Dr, Scottsdale, AZ 85255</Address>
+    <Contact>
+      <Phone>+1-480-585-4848</Phone>
+      <Email>reservations@fairmont.com</Email>
+    </Contact>
+    <URL>https://www.fairmont.com/scottsdale/</URL>
+    <Rating>4.8</Rating>
+  </Hotel>
+
+  <Hotel id="5">
+    <Name>Found:Re Phoenix</Name>
+    <Address>1100 N Central Ave, Phoenix, AZ 85004</Address>
+    <Contact>
+      <Phone>+1-602-875-8000</Phone>
+      <Phone>+1-602-999-1234</Phone>
+    </Contact>
+    <URL>https://www.foundrehotels.com/</URL>
+    <Rating>4.2</Rating>
+  </Hotel>
+
+  <Hotel id="6">
+    <Name>Kimpton Hotel Palomar</Name>
+    <Address>2 E Jefferson St, Phoenix, AZ 85004</Address>
+    <Contact>
+      <Phone>+1-602-253-6633</Phone>
+      <Email>hello@palomar.com</Email>
+    </Contact>
+    <URL>https://www.hotelpalomar-phoenix.com/</URL>
+    <Rating>4.3</Rating>
+  </Hotel>
+
+  <Hotel id="7">
+    <Name>Arizona Biltmore</Name>
+    <Address>2400 E Missouri Ave, Phoenix, AZ 85016</Address>
+    <Contact>
+      <Phone>+1-602-955-6600</Phone>
+    </Contact>
+    <URL>https://www.arizonabiltmore.com/</URL>
+    <Rating>4.7</Rating>
+  </Hotel>
+
+  <Hotel id="8">
+    <Name>The Camby</Name>
+    <Address>2401 E Camelback Rd, Phoenix, AZ 85016</Address>
+    <Contact>
+      <Phone>+1-602-468-0700</Phone>
+      <Email>guestservices@thecamby.com</Email>
+    </Contact>
+    <URL>https://www.thecamby.com/</URL>
+    <Rating>4.4</Rating>
+  </Hotel>
+
+  <Hotel id="9">
+    <Name>Courtyard by Marriott Phoenix</Name>
+    <Address>9631 N Black Canyon Hwy, Phoenix, AZ 85021</Address>
+    <Contact>
+      <Phone>+1-602-944-7373</Phone>
+      <Phone>+1-888-236-2427</Phone>
+    </Contact>
+    <URL>https://www.marriott.com/en-us/hotels/phxcp-courtyard-phoenix/</URL>
+    <Rating>4.0</Rating>
+  </Hotel>
+
+  <Hotel id="10">
+    <Name>Hotel Valley Ho</Name>
+    <Address>6850 E Main St, Scottsdale, AZ 85251</Address>
+    <Contact>
+      <Phone>+1-480-248-2000</Phone>
+    </Contact>
+    <URL>https://www.hotelvalleyho.com/</URL>
+    <Rating>3.9</Rating>
+  </Hotel>
+</Hotels>
