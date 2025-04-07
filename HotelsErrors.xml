@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Hotels>
-  <!-- ❌ Missing required attribute 'id' -->
+  
   <Hotel>
     <Name>Broken Inn</Name>
     <Address>Unknown Street, Nowhere</Address>
@@ -11,7 +11,7 @@
     <Rating>4.1</Rating>
   </Hotel>
 
-  <!-- ❌ Rating is a string, should be decimal -->
+  
   <Hotel id="2">
     <Name>Faulty Towers</Name>
     <Address>123 Fake Rd</Address>
@@ -22,7 +22,7 @@
     <Rating>Excellent</Rating>
   </Hotel>
 
-  <!-- ❌ Missing required <Rating> element -->
+ 
   <Hotel id="3">
     <Name>No Stars Motel</Name>
     <Address>456 Imaginary Ave</Address>
@@ -30,20 +30,19 @@
       <Phone>+1-222-333-4444</Phone>
     </Contact>
     <URL>https://www.nostars.com/</URL>
-    <!-- Rating is missing -->
+   
   </Hotel>
 
-  <!-- ❌ Phone is outside <Contact>, and Email missing -->
+  
   <Hotel id="4">
     <Name>Bad Contact Hotel</Name>
     <Address>789 Nowhere Blvd</Address>
-    <Phone>+1-333-444-5555</Phone> <!-- Invalid placement -->
+    <Phone>+1-333-444-5555</Phone> 
     <Contact />
     <URL>https://www.badcontact.com/</URL>
     <Rating>3.5</Rating>
   </Hotel>
 
-  <!-- ❌ id is not a positive integer (0 is invalid) -->
   <Hotel id="0">
     <Name>Zero ID Lodge</Name>
     <Address>0 Null St</Address>
